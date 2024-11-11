@@ -1,0 +1,15 @@
+Types of Functions:
+
+Functions are blocks of code that perform specific tasks 🧑‍💻. Here are the different types:
+
+No Parameter and No Return Type:
+A function that neither takes any input nor returns any value 🤷‍♂️.
+
+Parameter and No Return Type:
+A function that takes inputs but doesn’t give anything back 🎁.
+
+No Parameter and Return Type:
+A function that returns something but doesn’t need any input 💬.
+
+Parameter and Return Type:
+A function that takes inputs and gives back a result 🎯.
